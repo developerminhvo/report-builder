@@ -1,0 +1,23 @@
+[
+  {
+    "categoryName": "Date Type",
+    "options": ["Current Day", "Yesterday", "Week To Date", "Last Week To Date", "Month To Date", "Last Month To Date"],
+    "type": "select"
+  },{
+    "categoryName": "Category",
+    "options": ["Beverage", "Food", "Misc"],
+    "type": "multiselect"
+  },{
+    "categoryName": "Department",
+    "options": ["Spirits", "Beer", "Wine"],
+    "type": "multiselect"
+  },{
+    "categoryName": "Item",
+    "options": ["Vodka", "Whisky"],
+    "type": "multiselect"
+  },{
+    "categoryName": "StaffMember",
+    "options": ["John Smith", "David Jone"],
+    "type": "multiselect"
+  }
+]
